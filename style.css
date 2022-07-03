@@ -66,6 +66,10 @@ body {
 
 }
 
+input {
+    margin-left: 20px;
+}
+
 .list {
     background-color: white;
     margin-top: 10px;
@@ -82,15 +86,7 @@ summary {
 
 label {
     line-height: 60px;
-    
-    
 }
-
-input {
-    margin-left: 20px;
-    width: 25px;
-}
-
 
 .editional {
     display: inline-block;
