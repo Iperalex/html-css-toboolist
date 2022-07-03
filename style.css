@@ -1,0 +1,168 @@
+
+body {
+    background-color: #EDEEF3;
+    margin: 0px;
+    border: 0px;
+    font-family: sans-serif;
+}
+
+.logo {
+    background-color: white;
+    height: 110px;
+    width: 100%;
+    box-sizing: content-box;
+}
+
+#logoimg {
+    height: 100px;
+    margin: 5px;
+}
+
+#logotxt {
+    display: inline;
+    vertical-align: 43px;
+    font-size: 40px;
+}
+
+.button {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 65px;
+}
+
+#button1 {
+    margin-left: 30px;
+    height: 32px;
+    width: 112px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    vertical-align: -36px;
+    background-color: #34AAF8;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+#button2 {
+    height: 32px;
+    width: 112px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    vertical-align: -36px;
+    background-color: #F0F0F0;
+    border-color: #F5BEBE;
+    border-style: solid;
+    color: #BBB5B5;
+    cursor: pointer;
+    border-width: 3px;
+
+}
+
+.list {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+summary {
+    line-height: 50px;
+    margin-left: 20px;
+}
+
+label {
+    line-height: 60px;
+    
+    
+}
+
+input {
+    margin-left: 20px;
+    width: 25px;
+}
+
+
+.editional {
+    display: inline-block;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: #34AAF8;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;    
+}
+
+.q1 {
+    display: inline-block;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: #A200FF;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;    
+}
+
+.Recruiting {
+    display: inline-block;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: #11CFA0;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;    
+}
+
+.mobile {
+    display: inline-block;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: #FFA500;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;    
+}
+
+.website {
+    display: inline-block;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: #DA70D6;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;    
+}
